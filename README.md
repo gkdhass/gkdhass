@@ -2,52 +2,75 @@
 
 <p align="center">
   <a href="https://github.com/gkdhass">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+(MERN);Building+Scalable+Web+Apps;Passionate+about+Clean+Architecture" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00FF9D&center=true&vCenter=true&width=450&lines=Full-Stack+Developer+(MERN);Building+Scalable+%26+Performant+Apps;Passionate+about+Clean+Code+%26+Architecture" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  🚀 Crafting modern web experiences with the MERN stack<br>
-  💻 Focused on backend systems, performance, and cloud-ready architecture<br>
-  🌱 Currently diving deep into advanced Node.js patterns & optimization
+  🚀 Crafting modern, production-ready web experiences with MERN<br>
+  💻 Focused on backend efficiency, secure APIs, cloud-native design & optimization<br>
+  🌱 Currently mastering advanced Node.js (caching, microservices, performance tuning)
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gkdhass&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gkdhass&theme=radical&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gkdhass&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
 </div>
 
-<br/>
+<!-- Stats row -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gkdhass&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gkdhass&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" width="48%" alt="Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkdhass&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
+</div>
+
+<br>
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,git,github,postman,java" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,typescript,javascript,html,css,tailwind,git,github,postman,vercel,docker,java" alt="Tech Stack" />
 </p>
 
-- **Frontend** — React • JavaScript • HTML5 • CSS3 • Responsive Design
-- **Backend** — Node.js • Express.js • RESTful APIs • JWT Authentication
-- **Database** — MongoDB (Mongoose)
-- **Tools & Others** — Git • GitHub • Postman • Vercel • Clean Code Principles
+- **Frontend** — React • TypeScript • Tailwind / Modern CSS • Responsive + Accessible Design
+- **Backend** — Node.js • Express • REST/GraphQL • JWT + Refresh Tokens • Rate Limiting & Caching
+- **Database** — MongoDB (Mongoose) • Redis (for sessions/caching)
+- **Tools & Practices** — Git • GitHub Actions • Postman • Vercel/Netlify • Clean Architecture • Performance Optimization
+
+<br>
 
 ## 🔥 Featured Projects
 
-| Project | Description | Tech | Links |
-|---------|-------------|------|-------|
-| 🔐 Secure Auth System | Full authentication flow with JWT, refresh tokens, secure password hashing, role-based access | MERN + JWT | [Repo](https://github.com/gkdhass/auth-system) |
-| 🎵 Music Streaming Platform | Feature-rich music app: playlists, search, player, user profiles | MERN stack | [Repo](https://github.com/gkdhass/music-streaming) • [Live Demo](https://your-music-app.vercel.app) |
-| 🌐 Personal Portfolio | Clean, responsive portfolio showcasing projects & skills | React + Vercel | [Live](https://portfolio-iota-nine-9jujqqldhs.vercel.app/) • [Repo](https://github.com/gkdhass/portfolio) |
+### 🔐 Secure Auth System
+Full authentication system with JWT, refresh tokens, secure password hashing (Argon2), role-based access control, email verification  
+**Tech:** MERN + JWT + Nodemailer  
+[Repo](https://github.com/gkdhass/auth-system) • **(Add live demo if possible)**
 
-More projects → Check out my [repositories](https://github.com/gkdhass?tab=repositories)
+### 🎵 Music Streaming Platform
+Feature-rich app: playlists, real-time search, audio player, user profiles, favorites  
+**Tech:** MERN + Cloudinary (media) + Responsive UI  
+[Repo](https://github.com/gkdhass/music-streaming) • [Live Demo](https://your-music-app.vercel.app)
+
+### 🌐 Personal Portfolio
+Minimal, fast, responsive portfolio with dark mode and smooth animations  
+**Tech:** React + Vercel + Framer Motion (optional upgrade)  
+[Live](https://portfolio-iota-nine-9jujqqldhs.vercel.app/) • [Repo](https://github.com/gkdhass/portfolio)
+
+→ More projects in my [repositories](https://github.com/gkdhass?tab=repositories)
+
+<br>
 
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gkdhass&theme=react-dark&hide_border=true" width="80%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gkdhass&theme=react-dark&hide_border=true&custom_title=My%20Contribution%20Journey" width="80%" alt="Activity Graph" />
 </p>
 
-## 📫 Let's Connect!
+<br>
+
+## 📫 Let's Connect & Collaborate
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohandhassg05/">
@@ -64,7 +87,7 @@ More projects → Check out my [repositories](https://github.com/gkdhass?tab=rep
 </p>
 
 <p align="center">
-  <i>Always learning. Always shipping. Let's build something awesome together! 🚀</i>
+  <i>Always learning. Always shipping code. Open to freelance, collaborations, or interesting problems — let's build something awesome together! 🚀</i>
 </p>
 
 <p align="center">
