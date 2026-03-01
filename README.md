@@ -57,15 +57,36 @@
 
 ---
 
-## 🗂️ Featured Projects
+## 🗂️ Projects
 
 <div align="center">
 
-| Project | Description | Links |
-|---|---|---|
-|  **Event Hub** | JWT, refresh tokens, bcrypt, role-based access control. Production-ready auth patterns. | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/gkdhass/auth-system) |
-|  **Music Streaming Platform** | Playlists, search, audio player, user profiles & favorites. Full MERN experience. | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/gkdhass/music-streaming) [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel)]([https://your-music-app.vercel.app](https://mohanmusic.vercel.app/)) |
-|  **Personal Portfolio** | Responsive, performant showcase of projects and skills. | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/gkdhass/portfolio) [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel)]([https://portfolio-iota-nine-9jujqqldhs.vercel.app/](https://mohandhass.vercel.app/)) |
+## 🚀 Projects
+
+### 1️⃣ Event Hub
+🔹 JWT, refresh tokens, bcrypt, role-based access control  
+🔹 Production-ready authentication patterns  
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/gkdhass/auth-system)
+
+---
+
+### 2️⃣ Music Streaming Platform
+🔹 Playlists, search, audio player  
+🔹 User profiles & favorites  
+🔹 Full MERN experience  
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/gkdhass/music-streaming)
+[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel)](https://mohanmusic.vercel.app/)
+
+---
+
+### 3️⃣ Personal Portfolio
+🔹 Responsive and performant  
+🔹 Showcases projects and skills  
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/gkdhass/portfolio)
+[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel)](https://mohandhass.vercel.app/)
 
 </div>
 
