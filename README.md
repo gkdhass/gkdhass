@@ -5,23 +5,30 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=16&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=+Building+Scalable+Web+Application;+Node.js+Backend+Developer;+Clean+Architecture+Enthusiast;+Always+Learning.+Always+Shipping." alt="Typing SVG" />
 
 <br/>
-
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/mohandhassg05/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" style="margin: 0 15px; border: none;">
+  <a href="https://www.linkedin.com/in/mohandhassg05/" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
+         height="40"
+         style="display:inline-block; border:0; outline:none; text-decoration:none;">
   </a>
 
-  <a href="https://github.com/gkdhass" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" height="40" style="margin: 0 15px; border: none;">
+  <a href="https://github.com/gkdhass" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png"
+         height="40"
+         style="display:inline-block; border:0; outline:none; text-decoration:none;">
   </a>
 
-  <a href="https://mohandhass.vercel.app/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" height="40" style="margin: 0 15px; border: none;">
+  <a href="https://mohandhass.vercel.app/" target="_blank" style="text-decoration:none;">
+    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg"
+         height="40"
+         style="display:inline-block; border:0; outline:none; text-decoration:none;">
   </a>
 
-  <a href="mailto:mohandhassgovind@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="40" style="margin: 0 15px; border: none;">
+  <a href="mailto:mohandhassgovind@gmail.com" style="text-decoration:none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"
+         height="40"
+         style="display:inline-block; border:0; outline:none; text-decoration:none;">
   </a>
 
 </p>
