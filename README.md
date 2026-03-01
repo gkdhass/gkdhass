@@ -6,10 +6,23 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohandhassg05-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohandhassg05/)
-[![GitHub](https://img.shields.io/badge/GitHub-gkdhass-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gkdhass)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)]([https://portfolio-iota-nine-9jujqqldhs.vercel.app/](https://mohandhass.vercel.app/))
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohandhassgovind@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohandhassg05/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" style="margin: 0 15px;" />
+  </a>
+  
+  <a href="https://github.com/gkdhass" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" style="margin: 0 15px;" />
+  </a>
+  
+  <a href="https://mohandhass.vercel.app/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" height="35" style="margin: 0 15px;" />
+  </a>
+  
+  <a href="mailto:mohandhassgovind@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="35" style="margin: 0 15px;" />
+  </a>
+</p>
 
 </div>
 
