@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=header&text=Mohan+Dhass&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
-<h3>Full Stack MERN Developer &nbsp;·&nbsp; Backend Focused</h3>
+<h3>Full Stack Developer </h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=16&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=⚡+Building+Scalable+Web+Apps;🔧+Node.js+Backend+Developer;🏗️+Clean+Architecture+Enthusiast;🚀+Always+Learning.+Always+Shipping." alt="Typing SVG" />
 
@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohandhassg05-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohandhassg05/)
 [![GitHub](https://img.shields.io/badge/GitHub-gkdhass-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gkdhass)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-iota-nine-9jujqqldhs.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)]([https://portfolio-iota-nine-9jujqqldhs.vercel.app/](https://mohandhass.vercel.app/))
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohandhassgovind@gmail.com)
 
 </div>
@@ -43,9 +43,9 @@
 
 | Project | Description | Links |
 |---|---|---|
-| 🔐 **Secure Auth System** | JWT, refresh tokens, bcrypt, role-based access control. Production-ready auth patterns. | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/gkdhass/auth-system) |
-| 🎵 **Music Streaming Platform** | Playlists, search, audio player, user profiles & favorites. Full MERN experience. | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/gkdhass/music-streaming) [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel)](https://your-music-app.vercel.app) |
-| 🗂️ **Personal Portfolio** | Responsive, performant showcase of projects and skills. | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/gkdhass/portfolio) [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel)](https://portfolio-iota-nine-9jujqqldhs.vercel.app/) |
+|  **Event Hub** | JWT, refresh tokens, bcrypt, role-based access control. Production-ready auth patterns. | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/gkdhass/auth-system) |
+|  **Music Streaming Platform** | Playlists, search, audio player, user profiles & favorites. Full MERN experience. | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/gkdhass/music-streaming) [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel)]([https://your-music-app.vercel.app](https://mohanmusic.vercel.app/)) |
+|  **Personal Portfolio** | Responsive, performant showcase of projects and skills. | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/gkdhass/portfolio) [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel)]([https://portfolio-iota-nine-9jujqqldhs.vercel.app/](https://mohandhass.vercel.app/)) |
 
 </div>
 
