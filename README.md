@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=header&text=Mohan+Dhass&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=180&section=header&text=Mohan%20Dhass%20G&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20Stack&descAlignY=60&descSize=18" width="100%"/>
 
 <h3>Full Stack Developer </h3>
 
