@@ -8,19 +8,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohandhassg05/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" style="margin: 0 15px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" style="margin: 0 20px;" />
   </a>
-  
+
   <a href="https://github.com/gkdhass" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" style="margin: 0 15px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" height="40" style="margin: 0 20px;" />
   </a>
-  
+
   <a href="https://mohandhass.vercel.app/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" height="35" style="margin: 0 15px;" />
+    <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" height="40" style="margin: 0 20px;" />
   </a>
-  
+
   <a href="mailto:mohandhassgovind@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="35" style="margin: 0 15px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" style="margin: 0 20px;" />
   </a>
 </p>
 
