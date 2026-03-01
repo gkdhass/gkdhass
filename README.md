@@ -58,30 +58,15 @@
 ---
 ## 🗂️ Projects
 
-### 1️⃣ Event Hub
-- JWT, refresh tokens, bcrypt, role-based access control  
-- Production-ready authentication patterns  
+| Project | Description | Links |
+|----------|-------------|--------|
+| ** Event Hub** | JWT, refresh tokens, bcrypt, role-based access control.<br>Production-ready authentication patterns. | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/gkdhass/EventHub) |
+| ** Music Streaming Platform** | Playlists, search, audio player.<br>User profiles & favorites.<br>Full MERN experience. | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/gkdhass/music-streaming)<br>[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel)](https://mohanmusic.vercel.app/) |
+| ** Personal Portfolio** | Responsive and performant.<br>Showcases projects and skills. | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/gkdhass/portfolio)<br>[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel)](https://mohandhass.vercel.app/) |
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/gkdhass/EventHub)
+<br>
 
----
-
-### 2️⃣ Music Streaming Platform
-- Playlists, search, audio player  
-- User profiles & favorites  
-- Full MERN experience  
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/gkdhass/music-streaming)
-[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel)](https://mohanmusic.vercel.app/)
-
----
-
-### 3️⃣ Personal Portfolio
-- Responsive and performant  
-- Showcases projects and skills  
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/gkdhass/portfolio)
-[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel)](https://mohandhass.vercel.app/)**[View all repositories →](https://github.com/gkdhass?tab=repositories)**
+👉 **[View all repositories →](https://github.com/gkdhass?tab=repositories)**
 
 
 </div>
