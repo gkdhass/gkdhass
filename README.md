@@ -1,39 +1,77 @@
-<h1 align="center">Hi 👋, I'm Mohan Dhass</h1>
-<h3 align="center">Full Stack MERN Developer | Backend Focused</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;Node.js+Backend+Developer;Clean+Architecture+Enthusiast;Always+Learning+Always+Shipping" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=header&text=Mohan+Dhass&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
-## Tech Stack
+<h3>Full Stack MERN Developer &nbsp;·&nbsp; Backend Focused</h3>
 
-- Frontend: React, JavaScript, HTML5, CSS3, Responsive Design  
-- Backend: Node.js, Express.js, RESTful APIs, JWT Authentication  
-- Database: MongoDB (Mongoose)  
-- Tools: Git, GitHub, Postman, Vercel, Clean Code Principles  
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=16&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=⚡+Building+Scalable+Web+Apps;🔧+Node.js+Backend+Developer;🏗️+Clean+Architecture+Enthusiast;🚀+Always+Learning.+Always+Shipping." alt="Typing SVG" />
 
-## Featured Projects
+<br/>
 
-**Secure Auth System**  
-Full authentication flow including JWT, refresh tokens, secure password hashing, role-based access control.  
-Repo: https://github.com/gkdhass/auth-system
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohandhassg05-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohandhassg05/)
+[![GitHub](https://img.shields.io/badge/GitHub-gkdhass-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gkdhass)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-iota-nine-9jujqqldhs.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohandhassgovind@gmail.com)
 
-**Music Streaming Platform**  
-Playlists, search, audio player, user profiles, favorites.  
-Repo: https://github.com/gkdhass/music-streaming  
-Live: https://your-music-app.vercel.app
+</div>
 
-**Personal Portfolio**  
-Responsive showcase of projects and skills.  
-Live: https://portfolio-iota-nine-9jujqqldhs.vercel.app/  
-Repo: https://github.com/gkdhass/portfolio
+---
 
-More projects: https://github.com/gkdhass?tab=repositories
+## ⚡ Tech Stack
 
-## Let's Connect
+<div align="center">
 
-- LinkedIn: https://www.linkedin.com/in/mohandhassg05/  
-- GitHub: https://github.com/gkdhass  
-- Email: mohandhassgovind@gmail.com  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Always learning and shipping code. Open to interesting projects and collaborations.
+</div>
+
+---
+
+## 🗂️ Featured Projects
+
+<div align="center">
+
+| Project | Description | Links |
+|---|---|---|
+| 🔐 **Secure Auth System** | JWT, refresh tokens, bcrypt, role-based access control. Production-ready auth patterns. | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/gkdhass/auth-system) |
+| 🎵 **Music Streaming Platform** | Playlists, search, audio player, user profiles & favorites. Full MERN experience. | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/gkdhass/music-streaming) [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel)](https://your-music-app.vercel.app) |
+| 🗂️ **Personal Portfolio** | Responsive, performant showcase of projects and skills. | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/gkdhass/portfolio) [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel)](https://portfolio-iota-nine-9jujqqldhs.vercel.app/) |
+
+</div>
+
+🔗 **[View all repositories →](https://github.com/gkdhass?tab=repositories)**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gkdhass&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=00F7FF&icon_color=00F7FF&text_color=e6edf3&hide_border=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkdhass&layout=compact&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=00F7FF&text_color=e6edf3&hide_border=false" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gkdhass&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&area=true&area_color=00F7FF&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to interesting projects & collaborations*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=80&section=footer" width="100%"/>
+
+</div>
