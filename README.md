@@ -63,7 +63,7 @@
 🔹 JWT, refresh tokens, bcrypt, role-based access control  
 🔹 Production-ready authentication patterns  
 
-[![Repo]([https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/gkdhass/EventHub.git)]
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/gkdhass/EventHub)
 
 ---
 
@@ -83,7 +83,6 @@
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/gkdhass/portfolio)
 [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel)](https://mohandhass.vercel.app/)
-
 🔗 **[View all repositories →](https://github.com/gkdhass?tab=repositories)**
 
 
