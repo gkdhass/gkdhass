@@ -4,7 +4,7 @@
 
 <h3>Full Stack Developer </h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=16&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=+Building+Scalable+Web+Apps;🔧+Node.js+Backend+Developer;+Clean+Architecture+Enthusiast;+Always+Learning.+Always+Shipping." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=16&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=+Building+Scalable+Web+Application;+Node.js+Backend+Developer;+Clean+Architecture+Enthusiast;+Always+Learning.+Always+Shipping." alt="Typing SVG" />
 
 <br/>
 
@@ -21,7 +21,7 @@
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](<i class="fa-brands fa-react"></i>)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
