@@ -7,21 +7,29 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohandhassg05/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" style="margin: 0 20px;" />
+
+  <a href="https://www.linkedin.com/in/mohandhassg05/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" />
   </a>
 
-  <a href="https://github.com/gkdhass" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" height="40" style="margin: 0 20px;" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/gkdhass" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" height="40" />
   </a>
 
-  <a href="https://mohandhass.vercel.app/" target="_blank">
-    <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" height="40" style="margin: 0 20px;" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://mohandhass.vercel.app/" target="_blank" style="text-decoration: none;">
+    <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" height="40" />
   </a>
 
-  <a href="mailto:mohandhassgovind@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" style="margin: 0 20px;" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:mohandhassgovind@gmail.com" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" />
   </a>
+
 </p>
 
 </div>
