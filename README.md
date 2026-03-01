@@ -51,27 +51,5 @@
 
 🔗 **[View all repositories →](https://github.com/gkdhass?tab=repositories)**
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gkdhass&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=00F7FF&icon_color=00F7FF&text_color=e6edf3&hide_border=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkdhass&layout=compact&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=00F7FF&text_color=e6edf3&hide_border=false" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gkdhass&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&area=true&area_color=00F7FF&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-*Open to interesting projects & collaborations*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=80&section=footer" width="100%"/>
 
 </div>
