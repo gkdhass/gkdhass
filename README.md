@@ -1,9 +1,9 @@
-# Mohan Dhass G
+<h1 align="center">Hi 👋, I'm Mohan Dhass</h1>
+<h3 align="center">Full Stack MERN Developer | Backend Focused</h3>
 
-Full-Stack Developer (MERN)
-
-Building scalable web applications with clean architecture and performance in mind.  
-Currently focused on advanced Node.js patterns, optimization, and backend systems.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;Node.js+Backend+Developer;Clean+Architecture+Enthusiast;Always+Learning+Always+Shipping" />
+</p>
 
 ## Tech Stack
 
