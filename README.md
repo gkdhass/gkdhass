@@ -4,7 +4,7 @@
 
 <h3>Full Stack Developer </h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=16&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=⚡+Building+Scalable+Web+Apps;🔧+Node.js+Backend+Developer;🏗️+Clean+Architecture+Enthusiast;🚀+Always+Learning.+Always+Shipping." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=16&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=+Building+Scalable+Web+Apps;🔧+Node.js+Backend+Developer;+Clean+Architecture+Enthusiast;+Always+Learning.+Always+Shipping." alt="Typing SVG" />
 
 <br/>
 
