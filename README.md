@@ -34,6 +34,7 @@
 ![Express](https://img.shields.io/badge/Express-37474f?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-2ecc71?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-ff7675?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🛠 Tools
 ![Git](https://img.shields.io/badge/Git-ff5722?style=for-the-badge&logo=git&logoColor=white)
@@ -46,47 +47,24 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-2196f3?style=for-the-badge&logo=typescript&logoColor=white)
 ![NextJS](https://img.shields.io/badge/NextJS-9c27b0?style=for-the-badge&logo=next.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-03a9f4?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3f51b5?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 # 🚀 Featured Projects
 
 ### 🎫 Event Hub
-Authentication system using JWT & Role Based Access  
 🔗 https://github.com/gkdhass/EventHub  
 
 ### 🎵 Music Streaming
-Full MERN App with playlist & audio player  
 🔗 https://github.com/gkdhass/music-streaming  
 🌐 https://mohanmusic.vercel.app/
 
 ### 🌐 Portfolio
-Modern responsive developer portfolio  
 🔗 https://github.com/gkdhass/portfolio  
 🌐 https://mohandhass.vercel.app/
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gkdhass&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gkdhass&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gkdhass&theme=matrix&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-<!-- FOOTER WAVE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9599E2,100:8BC6EC&height=120&section=footer"/>
 </p>
