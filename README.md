@@ -53,7 +53,8 @@
 # 🚀 Featured Projects
 
 ### 🎫 Event Hub
-🔗 https://github.com/gkdhass/EventHub  
+🔗 https://github.com/gkdhass/Event-Hub.git 
+🌐 https://gkeventhub.vercel.app/
 
 ### 🎵 Music Streaming
 🔗 https://github.com/gkdhass/music-streaming  
