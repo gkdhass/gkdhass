@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=28&duration=3000&pause=1000&color=3AAD6E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Engineer;Building+Real+World+Projects;Open+to+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=28&duration=3000&pause=1000&color=3AAD6E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Real+World+Projects;Open+to+Opportunities" />
 </p>
 
 ---
