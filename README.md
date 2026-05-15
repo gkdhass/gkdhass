@@ -72,7 +72,7 @@
 - 🔗 GitHub: https://github.com/gkdhass/Event-Hub
 - 🌐 Live: https://gkeventhub.vercel.app/
 
-- ### 🛒 E-commerce 
+ ### 🛒 E-commerce 
 - 🔗 GitHub: https://github.com/gkdhass/KM-Cart.git 
 - 🌐 Live: https://mohanmusic.vercel.app/
 
