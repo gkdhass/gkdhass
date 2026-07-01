@@ -27,7 +27,68 @@ Clean data models. APIs that don't break. Interfaces people actually enjoy.
 
 <br/>
 
-## &nbsp;&nbsp;02 · Stack
+## &nbsp;&nbsp;02 · Featured Projects
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### 🎫 [Event Hub](https://github.com/gkdhass/Event-Hub)
+`React` `Node.js` `MongoDB`
+
+Event discovery and management platform — browse events, manage listings, and handle registrations through a full-stack MERN application.
+
+**Built with:** RESTful API design · MongoDB schema modeling · React state management for live event data
+
+[**Live Demo →**](https://gkeventhub.vercel.app/) &nbsp;|&nbsp; [**Source →**](https://github.com/gkdhass/Event-Hub)
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+### 🎵 [Music Streaming](https://github.com/gkdhass/music-streaming)
+`React` `Express` `JWT`
+
+Full-stack streaming app with authenticated playback — users sign in, browse a music library, and control playback in a persistent player UI.
+
+**Built with:** JWT-based authentication · Express route protection · frontend state syncing with an audio player
+
+[**Live Demo →**](https://mohanmusic.vercel.app/) &nbsp;|&nbsp; [**Source →**](https://github.com/gkdhass/music-streaming)
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+### 🛒 [KM-Cart — E-commerce](https://github.com/gkdhass/KM-Cart.git)
+`React` `Node.js` `MongoDB`
+
+End-to-end e-commerce flow — product listings, cart management, and checkout built as a complete MERN application.
+
+**Built with:** Cart state management · MongoDB product/order schemas · Node.js API layer connecting storefront to backend
+
+[**Source →**](https://github.com/gkdhass/KM-Cart.git)
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+### 🌐 [Portfolio](https://github.com/gkdhass/portfolio)
+`React` `Vercel`
+
+Personal developer portfolio — design, content, and deployment handled end-to-end and shipped on Vercel.
+
+[**Live Demo →**](https://mohandhass.vercel.app/) &nbsp;|&nbsp; [**Source →**](https://github.com/gkdhass/portfolio)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## &nbsp;&nbsp;03 · Skills
 
 <div align="center">
 
@@ -50,7 +111,7 @@ Clean data models. APIs that don't break. Interfaces people actually enjoy.
 
 <br/><br/>
 
-**Tooling**
+**Tools**
 <br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -68,61 +129,24 @@ Clean data models. APIs that don't break. Interfaces people actually enjoy.
 
 <br/>
 
-## &nbsp;&nbsp;03 · Featured Work
+## &nbsp;&nbsp;04 · Let's Connect
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🎫 Event Hub
-Event discovery & management platform.
+Open to full-stack roles and collaborations — always happy to talk React, Node, or product ideas.
 
-`React` `Node.js` `MongoDB`
+<a href="https://mohandhass.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-3aad6e?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohandhassg05/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mohandhassgovind@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-[**Live →**](https://gkeventhub.vercel.app/) &nbsp;|&nbsp; [**Code →**](https://github.com/gkdhass/Event-Hub)
+<br/><br/>
 
-</td>
-<td width="50%" valign="top">
+<sub>Reach out anytime — always building, always learning.</sub>
 
-### 🎵 Music Streaming
-Full-stack streaming app with auth & playback.
-
-`React` `Express` `JWT`
-
-[**Live →**](https://mohanmusic.vercel.app/) &nbsp;|&nbsp; [**Code →**](https://github.com/gkdhass/music-streaming)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 KM-Cart (E-commerce)
-Cart, checkout & product flow built end-to-end.
-
-`React` `Node.js` `MongoDB`
-
-[**Code →**](https://github.com/gkdhass/KM-Cart.git)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Portfolio
-Personal site — design, content, deployment.
-
-`React` `Vercel`
-
-[**Live →**](https://mohandhass.vercel.app/) &nbsp;|&nbsp; [**Code →**](https://github.com/gkdhass/portfolio)
-
-</td>
-</tr>
-</table>
-
-<br/>
+</div>
 
 <br/>
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:241D17,100:181410&height=100&section=footer"/>
-
-<sub>Open to full-stack roles & collaborations — reach out anytime.</sub>
 </div>
