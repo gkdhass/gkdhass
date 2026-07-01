@@ -29,45 +29,42 @@ Clean data models. APIs that don't break. Interfaces people actually enjoy.
 
 ## &nbsp;&nbsp;02 · Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
+<div align="center">
 
 **Frontend**
 <br/>
-<img src="https://img.shields.io/badge/React-181410?style=flat-square&logo=react&logoColor=E8A33D"/><br/>
-<img src="https://img.shields.io/badge/JavaScript-181410?style=flat-square&logo=javascript&logoColor=E8A33D"/><br/>
-<img src="https://img.shields.io/badge/HTML5-181410?style=flat-square&logo=html5&logoColor=E8A33D"/><br/>
-<img src="https://img.shields.io/badge/CSS3-181410?style=flat-square&logo=css3&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-</td>
-<td valign="top" width="33%">
+<br/><br/>
 
 **Backend**
 <br/>
-<img src="https://img.shields.io/badge/Node.js-181410?style=flat-square&logo=node.js&logoColor=E8A33D"/><br/>
-<img src="https://img.shields.io/badge/Express-181410?style=flat-square&logo=express&logoColor=E8A33D"/><br/>
-<img src="https://img.shields.io/badge/MongoDB-181410?style=flat-square&logo=mongodb&logoColor=E8A33D"/><br/>
-<img src="https://img.shields.io/badge/JWT-181410?style=flat-square&logo=jsonwebtokens&logoColor=E8A33D"/><br/>
-<img src="https://img.shields.io/badge/SQL-181410?style=flat-square&logo=mysql&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-</td>
-<td valign="top" width="33%">
+<br/><br/>
 
 **Tooling**
 <br/>
-<img src="https://img.shields.io/badge/Git-181410?style=flat-square&logo=git&logoColor=E8A33D"/><br/>
-<img src="https://img.shields.io/badge/GitHub-181410?style=flat-square&logo=github&logoColor=E8A33D"/><br/>
-<img src="https://img.shields.io/badge/Postman-181410?style=flat-square&logo=postman&logoColor=E8A33D"/><br/>
-<img src="https://img.shields.io/badge/Vercel-181410?style=flat-square&logo=vercel&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
-</td>
-</tr>
-</table>
+<br/><br/>
 
-**Currently learning →**
-<img src="https://img.shields.io/badge/TypeScript-181410?style=flat-square&logo=typescript&logoColor=E8A33D"/>
-<img src="https://img.shields.io/badge/Next.js-181410?style=flat-square&logo=next.js&logoColor=E8A33D"/>
+**Currently Learning**
+<br/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+
+</div>
 
 <br/>
 
@@ -121,15 +118,6 @@ Personal site — design, content, deployment.
 </table>
 
 <br/>
-
-## &nbsp;&nbsp;04 · GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gkdhass&show_icons=true&theme=dark&hide_border=true&bg_color=181410&title_color=E8A33D&icon_color=E8A33D&text_color=C9A98C" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gkdhass&theme=dark&hide_border=true&background=181410&ring=E8A33D&fire=E8A33D&currStreakLabel=E8A33D" height="165"/>
-
-</div>
 
 <br/>
 
