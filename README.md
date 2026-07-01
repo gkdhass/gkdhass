@@ -1,92 +1,139 @@
-<!-- TOP BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8BC6EC,100:9599E2&height=200&section=header&text=Mohan%20Dhass%20G&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
+<div align="center">
 
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=28&duration=3000&pause=1000&color=3AAD6E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Real+World+Projects;Open+to+Opportunities" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:0F172A,100:1E293B&height=180&section=header&text=MOHAN%20DHASS%20G&fontSize=42&fontColor=5EEAD4&fontAlignY=55&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Building%20Real-World%20Products&descAlignY=75&descSize=16&descColor=94A3B8"/>
 
----
+<br/>
 
-## 🌐 Connect With Me
+<a href="https://mohandhass.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=5EEAD4"/></a>
+<a href="https://www.linkedin.com/in/mohandhassg05/"><img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=5EEAD4"/></a>
+<a href="https://github.com/gkdhass"><img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=5EEAD4"/></a>
+<a href="mailto:mohandhassgovind@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=5EEAD4"/></a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohandhassg05/">
-    <img src="https://img.shields.io/badge/LinkedIn-00C6FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/gkdhass">
-    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://mohandhass.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-3aad6e?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="mailto:mohandhassgovind@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ff4b5c?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+</div>
 
----
+<br/>
 
-## 🧑‍💻 Tech Stack
+## &nbsp;&nbsp;01 · About
 
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-ff6f61?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-36a2eb?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-00d4ff?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-ffd93d?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+```
+> whoami
+Full Stack Developer who ships end-to-end products, not just UI screens.
+Comfortable owning a feature from schema design to deployment.
+Currently deepening TypeScript + Next.js to build faster, safer frontends.
 
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/NodeJS-00c853?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-37474f?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-2ecc71?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-ff7675?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+> what I care about
+Clean data models. APIs that don't break. Interfaces people actually enjoy.
+```
 
-### 🛠 Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-ff5722?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-ff9800?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-00e676?style=for-the-badge&logo=vercel&logoColor=black"/>
-</p>
+<br/>
 
----
+## &nbsp;&nbsp;02 · Stack
 
-## 🌱 Currently Learning
+<table>
+<tr>
+<td valign="top" width="33%">
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-2196f3?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NextJS-9c27b0?style=for-the-badge&logo=next.js&logoColor=white"/>
-</p>
+**Frontend**
+```
+React.js
+JavaScript (ES6+)
+HTML5 / CSS3
+```
 
----
+</td>
+<td valign="top" width="33%">
 
-## 🚀 Featured Projects
+**Backend**
+```
+Node.js
+Express.js
+MongoDB
+JWT Auth
+SQL
+```
+
+</td>
+<td valign="top" width="33%">
+
+**Tooling**
+```
+Git / GitHub
+Postman
+Vercel
+```
+
+</td>
+</tr>
+</table>
+
+**Currently learning →** `TypeScript` `Next.js`
+
+<br/>
+
+## &nbsp;&nbsp;03 · Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🎫 Event Hub
-- 🔗 GitHub: https://github.com/gkdhass/Event-Hub
-- 🌐 Live: https://gkeventhub.vercel.app/
+Event discovery & management platform.
 
- ### 🛒 E-commerce 
-- 🔗 GitHub: https://github.com/gkdhass/KM-Cart.git 
-- 🌐 Live: https://mohanmusic.vercel.app/
+`React` `Node.js` `MongoDB`
+
+[**Live →**](https://gkeventhub.vercel.app/) &nbsp;|&nbsp; [**Code →**](https://github.com/gkdhass/Event-Hub)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🎵 Music Streaming
-- 🔗 GitHub: https://github.com/gkdhass/music-streaming  
-- 🌐 Live: https://mohanmusic.vercel.app/
+Full-stack streaming app with auth & playback.
+
+`React` `Express` `JWT`
+
+[**Live →**](https://mohanmusic.vercel.app/) &nbsp;|&nbsp; [**Code →**](https://github.com/gkdhass/music-streaming)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 KM-Cart (E-commerce)
+Cart, checkout & product flow built end-to-end.
+
+`React` `Node.js` `MongoDB`
+
+[**Live →**](https://mohanmusic.vercel.app/) &nbsp;|&nbsp; [**Code →**](https://github.com/gkdhass/KM-Cart.git)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🌐 Portfolio
-- 🔗 GitHub: https://github.com/gkdhass/portfolio  
-- 🌐 Live: https://mohandhass.vercel.app/
+Personal site — design, content, deployment.
 
----
+`React` `Vercel`
 
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9599E2,100:8BC6EC&height=120&section=footer"/>
-</p>
+[**Live →**](https://mohandhass.vercel.app/) &nbsp;|&nbsp; [**Code →**](https://github.com/gkdhass/portfolio)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## &nbsp;&nbsp;04 · GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gkdhass&show_icons=true&theme=dark&hide_border=true&bg_color=0F172A&title_color=5EEAD4&icon_color=5EEAD4&text_color=94A3B8" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gkdhass&theme=dark&hide_border=true&background=0F172A&ring=5EEAD4&fire=5EEAD4&currStreakLabel=5EEAD4" height="165"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:1E293B,100:0F172A&height=100&section=footer"/>
+
+<sub>Open to full-stack roles & collaborations — reach out anytime.</sub>
+</div>
