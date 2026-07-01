@@ -29,43 +29,45 @@ Clean data models. APIs that don't break. Interfaces people actually enjoy.
 
 ## &nbsp;&nbsp;02 · Stack
 
-<div align="center">
-
-```
-   ┌───────────────────────────────────────────┐
-   │   CLIENT                                   │
-   │   React.js · JavaScript (ES6+) · HTML5/CSS3│
-   └──────────────────────┬──────────────────────┘
-                           │  REST API
-   ┌──────────────────────▼──────────────────────┐
-   │   SERVER                                     │
-   │   Node.js · Express.js · JWT Auth            │
-   └──────────────────────┬──────────────────────┘
-                           │  Queries
-   ┌──────────────────────▼──────────────────────┐
-   │   DATA                                       │
-   │   MongoDB · SQL                              │
-   └───────────────────────────────────────────────┘
-```
-
-</div>
-
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
-**Workflow & Tooling**
-`Git` `GitHub` `Postman` `Vercel`
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/React-181410?style=flat-square&logo=react&logoColor=E8A33D"/><br/>
+<img src="https://img.shields.io/badge/JavaScript-181410?style=flat-square&logo=javascript&logoColor=E8A33D"/><br/>
+<img src="https://img.shields.io/badge/HTML5-181410?style=flat-square&logo=html5&logoColor=E8A33D"/><br/>
+<img src="https://img.shields.io/badge/CSS3-181410?style=flat-square&logo=css3&logoColor=E8A33D"/>
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
-**Currently Building With**
-`TypeScript` `Next.js`
+**Backend**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-181410?style=flat-square&logo=node.js&logoColor=E8A33D"/><br/>
+<img src="https://img.shields.io/badge/Express-181410?style=flat-square&logo=express&logoColor=E8A33D"/><br/>
+<img src="https://img.shields.io/badge/MongoDB-181410?style=flat-square&logo=mongodb&logoColor=E8A33D"/><br/>
+<img src="https://img.shields.io/badge/JWT-181410?style=flat-square&logo=jsonwebtokens&logoColor=E8A33D"/><br/>
+<img src="https://img.shields.io/badge/SQL-181410?style=flat-square&logo=mysql&logoColor=E8A33D"/>
+
+</td>
+<td valign="top" width="33%">
+
+**Tooling**
+<br/>
+<img src="https://img.shields.io/badge/Git-181410?style=flat-square&logo=git&logoColor=E8A33D"/><br/>
+<img src="https://img.shields.io/badge/GitHub-181410?style=flat-square&logo=github&logoColor=E8A33D"/><br/>
+<img src="https://img.shields.io/badge/Postman-181410?style=flat-square&logo=postman&logoColor=E8A33D"/><br/>
+<img src="https://img.shields.io/badge/Vercel-181410?style=flat-square&logo=vercel&logoColor=E8A33D"/>
 
 </td>
 </tr>
 </table>
+
+**Currently learning →**
+<img src="https://img.shields.io/badge/TypeScript-181410?style=flat-square&logo=typescript&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/Next.js-181410?style=flat-square&logo=next.js&logoColor=E8A33D"/>
 
 <br/>
 
