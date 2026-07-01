@@ -16,7 +16,7 @@
 ## &nbsp;&nbsp;01 · About
 
 ```
-> whoami
+
 Full Stack Developer who ships end-to-end products, not just UI screens.
 Comfortable owning a feature from schema design to deployment.
 Currently deepening TypeScript + Next.js to build faster, safer frontends.
@@ -120,20 +120,3 @@ Personal site — design, content, deployment.
 </table>
 
 <br/>
-
-## &nbsp;&nbsp;04 · GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gkdhass&show_icons=true&theme=dark&hide_border=true&bg_color=181410&title_color=E8A33D&icon_color=E8A33D&text_color=C9A98C" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gkdhass&theme=dark&hide_border=true&background=181410&ring=E8A33D&fire=E8A33D&currStreakLabel=E8A33D" height="165"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:241D17,100:181410&height=100&section=footer"/>
-
-<sub>Open to full-stack roles & collaborations — reach out anytime.</sub>
-</div>
