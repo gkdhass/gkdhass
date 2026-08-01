@@ -1,79 +1,120 @@
-<h1 align="center">Hi there, I'm Mohan Dhass G 👋</h1>
-<h3 align="center">Full Stack Developer | MERN Stack</h3>
-
+<!-- TOP DIVIDER -->
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
-![Profile views](https://komarev.com/ghpvc/?username=gkdhass&color=blueviolet&style=flat)
+<!-- HERO CODING GIF -->
+<div align="center">
+  <img 
+    src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif"
+    width="520"
+    alt="Pixel Developer Coding Animation"
+  />
+</div>
 
+<!-- TYPING ANIMATION -->
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF7F&center=true&vCenter=true&width=940&lines=Hello+there,+I+am+Mohan+Dhass+G;A+Full+Stack+MERN+Developer;Building+Scalable+Web+Applications"
+    alt="Typing SVG"
+  />
+</h1>
+
+<!-- DIVIDER -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 ---
 
 ## About Me
 
-- 🎓 **B.Tech – Information Technology**, VSB Engineering College *(2023 – 2027)* — CGPA: 7.97
-- 💻 **Full Stack Developer** specializing in the **MERN stack**, building scalable web apps, authentication systems, and RESTful APIs
-- 🧠 **Solved 350+ problems on LeetCode**, with a strong foundation in DSA and OOP
-- 🔐 Experienced in **JWT authentication**, REST API design, and backend system optimization
-- 🏆 **Runner-up (2nd Place)** at HACK THE CHIP — National Level Hackathon
-- 🥈 **Runner-up** at the Infosys Springboard BangaloreDC Event (2026)
-- 📜 Completed a 12-week **NPTEL certification in Java Programming**
-- 🥋 State Level Judo Player (2023)
-- 🚀 Currently interning as a **Web Developer at TECHINS**
-- 📧 **Email:** [mohandhassgoind@gmail.com](mailto:mohandhassgoind@gmail.com)
+<div align="center">
+  <img 
+    align="right"
+    alt="Developer Working Animation"
+    width="380"
+    src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
+  />
+</div>
+
+- **B.Tech – Information Technology**, VSB Engineering College, Karur (2023 – 2027) — CGPA: 7.97
+- **Full Stack Developer** specializing in the **MERN stack**, building scalable web apps, authentication systems, and RESTful APIs
+- Strong foundation in **DSA, OOP, and DBMS**
+- Solved **350+ problems on LeetCode**
+- Runner-up (2nd Place) at **HACK THE CHIP** — National Level Hackathon
+- Runner-up at the **Infosys Springboard BangaloreDC Event (2026)**
+- Completed a **12-week NPTEL certification in Java Programming**
+- State Level Judo Player (2023) & completed four levels of the Hindi Examination
+
+**Email:** [mohandhassgoind@gmail.com](mailto:mohandhassgoind@gmail.com)
 
 ---
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+<div align="center">
+  <img 
+    src="https://skillicons.dev/icons?i=java,react,nodejs,express,mongodb,mysql,tailwind,html,css,js,vercel,git,github,postman,vscode&theme=dark"
+    alt="Tech Stack"
+  />
+</div>
 
 ---
 
 ## Featured Projects
 
-**[E-Commerce Platform (KM Cart)](https://kmcart.vercel.app)** — MERN Stack | [Live](https://kmcart.vercel.app) · [Git](https://github.com/gkdhass/KM-Cart.git)
-Full-featured online shopping platform with secure user authentication, integrated payment gateway, admin dashboard for product/order/user management, and optimized backend APIs.
+- **E-Commerce Platform** — MERN Stack ([Live](https://kmcart.vercel.app) | [Git](https://github.com/gkdhass/KM-Cart.git))  
+  Full-featured online shopping platform with secure user authentication, integrated payment gateway, an admin dashboard for product/order/user management, and optimized backend APIs.
 
-**[Campus Event Hub Platform](https://gkeventhub.vercel.app/)** — MERN Stack | [Live](https://gkeventhub.vercel.app/) · [Git](https://github.com/gkdhass/Event-Hub.git)
-Event management platform with user authentication, an admin dashboard, CRUD operations via MongoDB, and a scalable REST API structure.
+- **Campus Event Hub Platform** — MERN Stack ([Live](https://gkeventhub.vercel.app/) | [Git](https://github.com/gkdhass/Event-Hub.git))  
+  Event platform with user authentication, an admin dashboard, CRUD operations using MongoDB, and a scalable REST API structure.
 
-**[TECHINS Corporate Website](https://www.techins.in/)** — React, Node.js | [Live](https://www.techins.in/) · [Git](https://github.com/gkdhass/TECHINS_Official.git)
-Professional EdTech website with a modern UI, optimized performance, and cross-device compatibility.
+- **TECHINS Corporate Website** — React, Node.js ([Live](https://www.techins.in/) | [Git](https://github.com/gkdhass/TECHINS_Official.git))  
+  Professional EdTech website with a modern UI, optimized performance, and cross-device compatibility.
+
+---
+
+## Experience
+
+- **Web Developer — TECHINS** (2025 – Present)  
+  Developed a production startup website with a responsive UI, implemented authentication flows and REST APIs, and improved application stability through systematic debugging.
+
+- **Virtual Intern — Infosys Springboard** (Sept 2025 – Nov 2025)  
+  Built MERN stack applications with authentication and dashboards, practicing testing, debugging, and modular development techniques.
 
 ---
 
 ## Let's Connect
-
-<p align="center">
-  <a href="https://mohandhass.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mohandhassg05/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/g_k_dhass/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:mohandhassgoind@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<div align="center">
+  <a href="https://mohandhass.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohandhassg05/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/g_k_dhass/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://github.com/gkdhass">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:mohandhassgoind@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
 ## Current Focus
 
-- 🛒 Enhancing the **KM Cart** e-commerce platform end-to-end
-- 🧩 Practicing DSA and solving problems on LeetCode
-- ⚙️ Strengthening backend system design and RESTful API architecture
-- 🎯 Exploring AI-assisted development tools (Claude AI, Devin, Lovable AI)
+- Strengthening backend system design and performance optimization skills
+- Practicing DSA and solving problems on LeetCode
+- Exploring modern AI-assisted development tools (Antigravity, Kiro, Devin, Lovable AI, Claude AI)
+
+---
+
+<!-- BOTTOM DIVIDER -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
