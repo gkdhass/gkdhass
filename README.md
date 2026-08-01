@@ -32,9 +32,9 @@
 <div align="center">
   <img 
     align="right"
-    alt="Cartoon illustration of coding"
+    alt="Cartoon character typing and coding"
     width="260"
-    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm1sN255a240eGh0ZTlkcmVlZnMzZXJsdGZ5aHY5bGd2aDFoanltciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MT5UUV1d4CXE2A37Dg/giphy.gif"
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmtlOHAwemc3eDFoZGs2cDZreTJubnE0cTMyMXVqZHp4ajd4ZnkzayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/C9AtxaqrdVngF76L4X/giphy.gif"
   />
 </div>
 
@@ -113,6 +113,11 @@ Built MERN stack applications with authentication and dashboards, practicing tes
 - Growing the MERN project portfolio with production-ready deployments
 
 ---
+
+<!-- PROFILE VIEW COUNT -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=gkdhass&label=Profile%20Views&color=00FF7F&style=flat" alt="Profile view count" />
+</p>
 
 <!-- BOTTOM DIVIDER -->
 <div align="center">
