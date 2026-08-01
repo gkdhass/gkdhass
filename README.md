@@ -1,14 +1,14 @@
 <!-- TOP DIVIDER -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <hr style="height:2px;border:none;background-color:#8b8b8b;">
 </div>
 
 <!-- HERO CODING GIF -->
 <div align="center">
   <img 
-    src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif"
-    width="520"
-    alt="Pixel Developer Coding Animation"
+    src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif"
+    width="420"
+    alt="Confident Male Coder Animation"
   />
 </div>
 
@@ -22,7 +22,7 @@
 
 <!-- DIVIDER -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <hr style="height:2px;border:none;background-color:#8b8b8b;">
 </div>
 
 ---
@@ -34,7 +34,7 @@
     align="right"
     alt="Developer Working Animation"
     width="380"
-    src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e"
+    src="https://user-images.githubusercontent.com/74038190/212897707-026174ef-f09d-4d41-a4bb-c7266f5420b0.gif"
   />
 </div>
 
@@ -116,5 +116,5 @@
 
 <!-- BOTTOM DIVIDER -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <hr style="height:2px;border:none;background-color:#8b8b8b;">
 </div>
