@@ -32,9 +32,9 @@
 <div align="center">
   <img 
     align="right"
-    alt="Animated terminal running code"
+    alt="Animated illustration of a coder writing code"
     width="260"
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzdyMXQ4Z2Ztdm5tNml3dGd2NXZxdDF1OTRid3RqY2V3em4xd2gxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oz8xRICW5msyoRUv6/200.gif"
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG53cXJvenpmeGM4cWl0cHdhem41eGpzMHc4OGVrYWR6Yjc2ZGsyOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rJsMvyk7AHHiW9qKLM/giphy.gif"
   />
 </div>
 
