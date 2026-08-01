@@ -3,12 +3,12 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-<!-- HERO IMAGE (replaced) -->
+<!-- HERO IMAGE (replaced: photo of a man typing/coding) -->
 <div align="center">
   <img 
-    src="https://freesvg.org/img/working.png"
-    width="360"
-    alt="Developer working on a laptop illustration"
+    src="https://images.pexels.com/photos/16129728/pexels-photo-16129728/free-photo-of-man-coding-on-pc.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    width="520"
+    alt="Man coding at his desk with multiple monitors"
   />
 </div>
 
@@ -32,9 +32,9 @@
 <div align="center">
   <img 
     align="right"
-    alt="Man working at a computer illustration"
+    alt="Animated terminal running code"
     width="260"
-    src="https://freesvg.org/img/1519501415.png"
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzdyMXQ4Z2Ztdm5tNml3dGd2NXZxdDF1OTRid3RqY2V3em4xd2gxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oz8xRICW5msyoRUv6/200.gif"
   />
 </div>
 
