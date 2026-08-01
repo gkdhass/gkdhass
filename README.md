@@ -1,7 +1,4 @@
-<!-- TOP DIVIDER -->
-<div align="center">
-  <hr style="height:2px;border:none;background-color:#8b8b8b;">
-</div>
+---
 
 <!-- HERO CODING GIF -->
 <div align="center">
@@ -19,11 +16,6 @@
     alt="Typing SVG"
   />
 </h1>
-
-<!-- DIVIDER -->
-<div align="center">
-  <hr style="height:2px;border:none;background-color:#8b8b8b;">
-</div>
 
 ---
 
@@ -114,7 +106,4 @@
 
 ---
 
-<!-- BOTTOM DIVIDER -->
-<div align="center">
-  <hr style="height:2px;border:none;background-color:#8b8b8b;">
-</div>
+---
