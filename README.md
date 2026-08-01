@@ -3,12 +3,12 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-<!-- HERO IMAGE (replaced: photo of a man typing/coding) -->
+<!-- HERO IMAGE (replaced) -->
 <div align="center">
   <img 
-    src="https://images.pexels.com/photos/16129728/pexels-photo-16129728/free-photo-of-man-coding-on-pc.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    width="520"
-    alt="Man coding at his desk with multiple monitors"
+    src="https://img.magnific.com/free-photo/aesthetic-anime-character-gaming_23-2151560698.jpg?semt=ais_test_b&w=740&q=80"
+    width="420"
+    alt="Aesthetic anime character gaming"
   />
 </div>
 
