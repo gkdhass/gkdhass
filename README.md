@@ -32,9 +32,9 @@
 <div align="center">
   <img 
     align="right"
-    alt="Animated illustration of a coder writing code"
+    alt="Cartoon illustration of coding"
     width="260"
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG53cXJvenpmeGM4cWl0cHdhem41eGpzMHc4OGVrYWR6Yjc2ZGsyOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rJsMvyk7AHHiW9qKLM/giphy.gif"
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm1sN255a240eGh0ZTlkcmVlZnMzZXJsdGZ5aHY5bGd2aDFoanltciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MT5UUV1d4CXE2A37Dg/giphy.gif"
   />
 </div>
 
