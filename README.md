@@ -115,9 +115,9 @@ Built MERN stack applications with authentication and dashboards, practicing tes
 ---
 
 <!-- PROFILE VIEW COUNT -->
-<p align="right">
+<!-- <p align="right">
   <img src="https://komarev.com/ghpvc/?username=gkdhass&label=Profile%20Views&color=00FF7F&style=flat" alt="Profile view count" />
-</p>
+</p> -->
 
 <!-- BOTTOM DIVIDER -->
 <div align="center">
