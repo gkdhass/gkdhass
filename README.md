@@ -1,6 +1,6 @@
 <!-- TOP DIVIDER -->
 <div align="center">
-  <img src="[https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif](https://drive.google.com/file/d/1Jwt6NTo3il_PvocAUjpwglzH4cJ2DjyP/view?usp=sharing)" width="900">
+  <img src="[https://drive.google.com/file/d/1Jwt6NTo3il_PvocAUjpwglzH4cJ2DjyP/view?usp=sharing](https://drive.google.com/file/d/1Jwt6NTo3il_PvocAUjpwglzH4cJ2DjyP/view?usp=sharing)" width="900">
 </div>
 
 <!-- HERO IMAGE (replaced) -->
