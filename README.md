@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Mohan Dhass Banner">
+<img src="https://drive.google.com/file/d/1Jwt6NTo3il_PvocAUjpwglzH4cJ2DjyP/view?usp=sharing" width="100%" alt="Mohan Dhass Banner">
 
 </div>
 
