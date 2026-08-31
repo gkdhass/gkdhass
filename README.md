@@ -88,7 +88,7 @@
 
 | achievement | details |
 |---|---|
-| 🧩 LeetCode | 350+ coding problems solved |
+| 🧩 LeetCode | 400+ coding problems solved |
 | 🥈 HACK THE CHIP | Runner-up — National Level Hackathon |
 | 🥈 Infosys Springboard | Runner-up — BangaloreDC Event 2026 |
 | ☕ NPTEL | 12-week certification in Java Programming |
