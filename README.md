@@ -3,14 +3,22 @@
 <img
   src="https://drive.google.com/uc?export=view&id=1Jwt6NTo3il_PvocAUjpwglzH4cJ2DjyP"
   width="100%"
+  style="width:100%; max-width:100%;"
   alt="Mohan Dhass Banner"
 />
+
+<br>
+
+<a href="#">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=600&height=60&lines=learn%2C+build%2C+ship.;full-stack+developer.;MERN+%7C+AI-powered+apps."
+    alt="Typing SVG"
+  />
+</a>
 
 </div>
 
 <br>
-
-# learn, build, ship.
 
 > full-stack developer building scalable web applications with the MERN stack.  
 > currently focused on backend development, authentication, REST APIs, system design, and AI-powered applications.
